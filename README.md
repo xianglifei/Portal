@@ -11,4 +11,4 @@
 [ChipHell](https://www.chiphell.com/)、[什么值得买](http://www.smzdm.com/)、[V2EX](http://www.v2ex.com/)
 
 ### 实用工具
-[网易云音乐](http://music.163.com/)、[网易词典](http://dict.youdao.com/)、[AppShoper](http://appshopper.com/)、[AppSales](http://www.app-sales.net/)
+[网易云音乐](http://music.163.com/)、[网易词典](http://dict.youdao.com/)、[AppShopper](http://appshopper.com/)、[AppSales](http://www.app-sales.net/)
