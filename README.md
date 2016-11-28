@@ -1,15 +1,7 @@
-### Google Family
-[Search](https://www.google.com.hk/)、[Mail](https://mail.google.com/mail/u/0/)、[Drive](https://drive.google.com/drive/)、[Docs](https://docs.google.com/document/u/0/)、[SpreadSheets](https://docs.google.com/spreadsheets/u/0/)、[Slide](https://docs.google.com/presentation/u/0/)、[Keep](https://keep.google.com/)、[Calendar](https://calendar.google.com/)
+### Portal
+Portal 是我维护的一个个人导航站点。  
 
-### 在线视频
-[优酷](http://www.youku.com/)、[爱奇艺](http://www.iqiyi.com/)、[BiliBili](http://www.bilibili.com/)、[YouTube](https://www.youtube.com/)
+在过去的很多年里，我一直在试图寻找一种简洁、轻量、高度可自行定制的网页导航产品，作为在电脑前的网址导航工具。  
+曾经也试过很多种产品，但总是多多少少存在缺陷。  
 
-### 新闻资讯
-[Inoreader](http://www.inoreader.com/)、[少数派](http://sspai.com/)、[数字尾巴](http://www.dgtle.com/)、[Next](http://next.36kr.com/)、[Product Hunt](https://www.producthunt.com/)、[小众软件](http://www.appinn.com/)、[煎蛋](http://jandan.net/)、[PingWest](http://www.pingwest.com/)、[华尔街见闻](http://wallstreetcn.com/)、[雪球](https://xueqiu.com/)
- 
-### 论坛社区
-[ChipHell](https://www.chiphell.com/)、[什么值得买](http://www.smzdm.com/)、[V2EX](http://www.v2ex.com/)、[知乎](http://www.zhihu.com/)、[水木社区](http://www.newsmth.net/)
-
-
-### 实用工具
-[印象笔记](https://www.yinxiang.com/)、[Processon](https://www.processon.com/)、[网易云音乐](http://music.163.com/)、[网易词典](http://dict.youdao.com/)、[AppShopper](http://appshopper.com/)、[AppSales](http://www.app-sales.net/)
+使用 Github Pages 作为网址导航站，来自一次灵感闪现。为什么不可以像编辑 Markdown 一样轻松愉快的维护一个动态但高频使用的导航站点呢？
